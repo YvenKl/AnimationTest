@@ -11,3 +11,4 @@ Leertaste =
 Sprung+Sprung-Animation
 
 !!!Animationen laufen ohne Probleme ab, werden nicht von anderen abgebrochen!!!
+!!!Der cooldown wird in der Konsole ausgegeben, nicht erschrecken, was das ist!!!
